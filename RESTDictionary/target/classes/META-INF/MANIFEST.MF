@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Built-By: JE20051838
+Class-Path: ../lib/w2g-core-config-3.0.6.jar ../lib/w2g-core-persisten
+ ce-3.0.6.jar ../lib/guava-18.0.jar ../lib/w2g-core-common-3.0.3.jar .
+ ./lib/gson-2.2.4.jar ../lib/commons-io-1.3.2.jar ../lib/commons-lang3
+ -3.0.jar ../lib/jackson-annotations-2.3.2.jar ../lib/jackson-databind
+ -2.3.2.jar ../lib/jackson-core-2.3.2.jar ../lib/jackson-mapper-asl-1.
+ 9.13.jar ../lib/jackson-core-asl-1.9.13.jar ../lib/slf4j-api-1.7.6.ja
+ r ../lib/jetty-server-9.0.7.v20131107.jar ../lib/jetty-http-9.0.7.v20
+ 131107.jar ../lib/jetty-util-9.0.7.v20131107.jar ../lib/jetty-io-9.0.
+ 7.v20131107.jar ../lib/libphonenumber-3.5.jar ../lib/joda-time-2.3.ja
+ r ../lib/log4j-1.2.17.jar ../lib/json-20160212.jar ../lib/hibernate-j
+ pa-2.1-api-1.0.0.Final.jar ../lib/javax.servlet-3.0.0.v201112011016.j
+ ar ../lib/hibernate-validator-5.0.2.Final.jar ../lib/classmate-1.0.0.
+ jar ../lib/jboss-logging-3.3.0.Final.jar ../lib/validation-api-1.1.0.
+ Final.jar ../lib/jsch-0.1.53.jar ../lib/dropwizard-core-0.7.0.jar ../
+ lib/dropwizard-util-0.7.0.jar ../lib/jsr305-2.0.3.jar ../lib/dropwiza
+ rd-jackson-0.7.0.jar ../lib/jackson-datatype-guava-2.3.2.jar ../lib/j
+ ackson-module-afterburner-2.3.2.jar ../lib/jackson-datatype-joda-2.3.
+ 2.jar ../lib/logback-classic-1.1.1.jar ../lib/dropwizard-validation-0
+ .7.0.jar ../lib/javax.el-2.2.6.jar ../lib/javax.el-api-2.2.5.jar ../l
+ ib/dropwizard-configuration-0.7.0.jar ../lib/jackson-dataformat-yaml-
+ 2.3.2.jar ../lib/dropwizard-logging-0.7.0.jar ../lib/metrics-logback-
+ 3.0.1.jar ../lib/jul-to-slf4j-1.7.6.jar ../lib/logback-core-1.1.1.jar
+  ../lib/log4j-over-slf4j-1.7.6.jar ../lib/dropwizard-metrics-0.7.0.ja
+ r ../lib/dropwizard-jersey-0.7.0.jar ../lib/jersey-core-1.18.1.jar ..
+ /lib/jersey-server-1.18.1.jar ../lib/jersey-servlet-1.18.1.jar ../lib
+ /metrics-jersey-3.0.1.jar ../lib/metrics-annotation-3.0.1.jar ../lib/
+ jackson-jaxrs-json-provider-2.3.2.jar ../lib/jackson-jaxrs-base-2.3.2
+ .jar ../lib/jackson-module-jaxb-annotations-2.3.2.jar ../lib/dropwiza
+ rd-servlets-0.7.0.jar ../lib/dropwizard-jetty-0.7.0.jar ../lib/metric
+ s-jetty9-3.0.1.jar ../lib/jetty-servlet-9.0.7.v20131107.jar ../lib/je
+ tty-security-9.0.7.v20131107.jar ../lib/jetty-servlets-9.0.7.v2013110
+ 7.jar ../lib/jetty-continuation-9.0.7.v20131107.jar ../lib/dropwizard
+ -lifecycle-0.7.0.jar ../lib/metrics-core-3.0.1.jar ../lib/metrics-jvm
+ -3.0.1.jar ../lib/metrics-servlets-3.0.1.jar ../lib/metrics-json-3.0.
+ 1.jar ../lib/metrics-healthchecks-3.0.1.jar ../lib/argparse4j-0.4.3.j
+ ar ../lib/jetty-setuid-java-1.0.2.jar ../lib/junit-4.11.jar ../lib/ha
+ mcrest-core-1.3.jar ../lib/poi-ooxml-3.9.jar ../lib/poi-3.9.jar ../li
+ b/poi-ooxml-schemas-3.9.jar ../lib/xmlbeans-2.3.0.jar ../lib/stax-api
+ -1.0.1.jar ../lib/dom4j-1.6.1.jar ../lib/xml-apis-1.0.b2.jar ../lib/m
+ ongo-java-driver-3.2.2.jar ../lib/azure-core-0.9.4.jar ../lib/commons
+ -lang-2.6.jar ../lib/mail-1.4.5.jar ../lib/activation-1.1.jar ../lib/
+ javax.inject-1.jar ../lib/azure-storage-2.0.0.jar ../lib/azure-docume
+ ntdb-1.8.0.jar ../lib/jedis-2.4.2.jar ../lib/commons-pool2-2.0.jar ..
+ /lib/base64-2.3.8.jar ../lib/applicationinsights-web-1.0.7.jar ../lib
+ /applicationinsights-core-1.0.7.jar ../lib/annotation-detector-3.0.4.
+ jar ../lib/applicationinsights-logging-log4j1_2-1.0.7.jar ../lib/sure
+ fire-junit4-2.12.4.jar ../lib/surefire-api-2.12.4.jar ../lib/tika-cor
+ e-1.0.jar ../lib/w2g-core-logger-1.0.1.jar ../lib/apache-log4j-extras
+ -1.2.17.jar ../lib/httpclient-4.5.jar ../lib/httpcore-4.4.1.jar ../li
+ b/commons-logging-1.2.jar ../lib/commons-codec-1.9.jar ../lib/httpmim
+ e-4.5.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.dollar.main.AppMain
+
